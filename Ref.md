@@ -4,4 +4,6 @@
 
 --[C++のムーブと完全転送を知る](https://proc-cpuinfo.fixstars.com/2016/03/c-html/)
 
---[C++20スマートポインタ入門](https://qiita.com/hmito/items/9b35a2438a8b8ee4b5af)
+--[C++20 スマートポインタ入門](https://qiita.com/hmito/items/9b35a2438a8b8ee4b5af)
+
+--[それ、ポインタ使わなくてもできるよ：Ｃ言語のポインタと C++の流儀](https://qiita.com/hmito/items/44925fca9fca74e78f61)
