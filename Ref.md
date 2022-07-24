@@ -10,4 +10,8 @@
 
 --[C++ ADL とは｜問題と危険性、回避方法（明示的回避と事前回避）](https://marycore.jp/prog/cpp/about-adl-avoid-adl/)
 
---[［C++］ std::ranges の範囲アクセス関数（オブジェクト）の使いみち](https://onihusube.hatenablog.com/entry/2019/12/26/200203)
+--[[C++] std::ranges の範囲アクセス関数（オブジェクト）の使いみち](https://onihusube.hatenablog.com/entry/2019/12/26/200203)
+
+--[【C++】メンバ関数には必要に応じて const をつけよう](https://flat-leon.hatenablog.com/entry/cpp_const_member_function)
+
+--[C++の Traits の仕組みを理解する](https://qiita.com/rita0222/items/09e49723e3339ba5de24)
