@@ -15,3 +15,5 @@
 --[【C++】メンバ関数には必要に応じて const をつけよう](https://flat-leon.hatenablog.com/entry/cpp_const_member_function)
 
 --[C++の Traits の仕組みを理解する](https://qiita.com/rita0222/items/09e49723e3339ba5de24)
+
+--[C++ メモリバリア 使い方](https://qiita.com/tetsu0121/items/cd28780bc30f3a1d3353)
