@@ -17,3 +17,5 @@
 --[C++の Traits の仕組みを理解する](https://qiita.com/rita0222/items/09e49723e3339ba5de24)
 
 --[C++ メモリバリア 使い方](https://qiita.com/tetsu0121/items/cd28780bc30f3a1d3353)
+
+--[boostをVisual Studio 2019で使う方法](https://www.pc-gear.com/post/boost-vs2019/)
